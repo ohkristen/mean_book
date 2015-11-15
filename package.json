@@ -1,0 +1,11 @@
+{
+  "name": "mean_app",
+  "version": "1.0.0",
+  "description": "this is the sample app from Jeff Dickey 'write modern web apps with the mean stack'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeff dickey - kristen gunn",
+  "license": "ISC"
+}
